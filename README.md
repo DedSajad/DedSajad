@@ -3,5 +3,6 @@
 - I’m currently learning Python ofc xD
 
 <!---
-
+Gmail: sajaddarzi12@gmail.com
+Instagram: sajad_drzi
 --->
