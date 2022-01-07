@@ -1,7 +1,5 @@
-- Hi, I’m Sajad
-- I’m interested in coding in Python language
-- I’m currently learning Python ofc xD
+- Hey, it’s Sajad
+- I’m currently learning Python
 
 
 - Gmail: sajaddarzi12@gmail.com
-- Instagram: sajad_drzi
